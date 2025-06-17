@@ -124,27 +124,27 @@ const API_SITES = {
     // 而作为观众无辜吗？毫无疑问，他们促成了黄色产业链的再生产。
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
     ckzy: {
-        api: 'https://www.ckzy1.com',
+        api: 'https://ckzy.me/api.php/provide/vod',
         name: 'CK资源',
         adult: true
     },
     jkun: {
-        api: 'https://jkunzyapi.com',
+        api: 'https://www.jkunzyapi.com/api.php/provide/vod',
         name: 'jkun资源',
         adult: true
     },
     bwzy: {
-        api: 'https://api.bwzym3u8.com',
+        api: 'https://api.bwzym3u8.com/api.php/provide/vod/at/json/',
         name: '百万资源',
         adult: true
     },
     souav: {
-        api: 'https://api.souavzy.vip',
+        api: 'https://api.souavzy.vip/api.php/provide/vod',
         name: 'souav资源',
         adult: true
     },
     r155: {
-        api: 'https://155api.com',
+        api: 'https://155api.com/api.php/provide/vod',
         name: '155资源',
         adult: true
     },
@@ -154,13 +154,13 @@ const API_SITES = {
         adult: true
     },
     huangcang: {
-        api: 'https://hsckzy.vip',
+        api: 'https://hsckzy.vip/api.php/provide/vod/at/json/',
         name: '黄色仓库',
         adult: true,
         detail: 'https://hsckzy.vip'
     },
     yutu: {
-        api: 'https://yutuzy10.com',
+        api: 'https://apiyutu.com/api.php/provide/vod',
         name: '玉兔资源',
         adult: true
     },
@@ -194,6 +194,26 @@ const API_SITES = {
         name: '黄AV资源',
         adult: true
     },
+    naixx: {
+        api: 'https://Naixxzy.com/api.php/provide/vod',
+        name: '香奶奶资源',
+        adult: true
+    },
+    semao: {
+        api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
+        name: '色猫资源',
+        adult: true
+    },
+    ddzy: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod',
+        name: '滴滴资源网',
+        adult: true
+    },
+    taohua: {
+    api: 'https://thzy1.me/api.php/provide/vod',
+    name: '桃花资源站',
+    adult: true
+}
 
 
     // 下面是资源失效率高的API源，不建议使用
